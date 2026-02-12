@@ -1,0 +1,268 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.6.1-46302893</SDKVersion>
+	<Host>Rhino</Host>
+	<Application Vendor="Robert McNeel &amp; Associates" ProductName="Rhino3D" ProductVersion="8"/>
+	<ResourcePath>E:/LQ_TP_wcy/LQ_TC/Content/WCY/Datasmith/20260109_object</ResourcePath>
+	<User ID="2ecc7f8e4927fd2c76ce4ab55c4cf0d2" OS="Windows 11 (25H2) [10.0.26200.7623]"/>
+	<Geolocation/>
+	<StaticMesh name="8751c61fc15d32d5738f2ff9f9494288" label="extrusion">
+		<file path="20260210_A_Ball_Assets/8751c61fc15d32d5738f2ff9f9494288.udsmesh"/>
+		<Size a="3976.336426" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c371aaa637e38b394b6d525c9df2bbe0"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="f603b581d9d7e6773e2e183de1e83674" label="extrusion_2">
+		<file path="20260210_A_Ball_Assets/f603b581d9d7e6773e2e183de1e83674.udsmesh"/>
+		<Size a="3976.578857" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bb2e77505fa3a499bf01df5f024c726b"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="5b6c9d8d347f12bc9cd6d0ebe64b73e0" label="extrusion_3">
+		<file path="20260210_A_Ball_Assets/5b6c9d8d347f12bc9cd6d0ebe64b73e0.udsmesh"/>
+		<Size a="3976.552246" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7e27c48ee8c94fc670c4d2d49431d3ea"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="9b7b3da1b02856f53a6f33173b595320" label="extrusion_4">
+		<file path="20260210_A_Ball_Assets/9b7b3da1b02856f53a6f33173b595320.udsmesh"/>
+		<Size a="3976.438477" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0d91738ba6b68b099af0d622602f2e7a"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="019ce7e2894fb5614adf39ca32ce1628" label="extrusion_5">
+		<file path="20260210_A_Ball_Assets/019ce7e2894fb5614adf39ca32ce1628.udsmesh"/>
+		<Size a="3976.384033" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8626787714eccd59954f23c18e375069"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="99a4353b56a44a4718a533dff854d13d" label="extrusion_6">
+		<file path="20260210_A_Ball_Assets/99a4353b56a44a4718a533dff854d13d.udsmesh"/>
+		<Size a="3976.506348" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6c1e856804817cec9e050fd9e6d0a4b4"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="c1fe9231b7e745eda401b83bdd93642c" label="extrusion_7">
+		<file path="20260210_A_Ball_Assets/c1fe9231b7e745eda401b83bdd93642c.udsmesh"/>
+		<Size a="3976.433838" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f542dbf2eb28fd57ecea39a4b4535ecc"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="aaca74a302cf540b18f387c0575b74b9" label="extrusion_8">
+		<file path="20260210_A_Ball_Assets/aaca74a302cf540b18f387c0575b74b9.udsmesh"/>
+		<Size a="3976.399658" x="1078.154297" y="371.956055" z="550.900635"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f542fdb4dbbad149aec9668ec0ea9359"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<StaticMesh name="2ac1408c750abe2dfc2fc8ae4d14baa5" label="brep">
+		<file path="20260210_A_Ball_Assets/2ac1408c750abe2dfc2fc8ae4d14baa5.udsmesh"/>
+		<Size a="1255.991333" x="20.0" y="19.999985" z="20.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="22b37d8533db2a8bbe8e7519b54d6757"/>
+		<Material id="0" name="8cca0507fc5e14c2d724ed5f1923d822"/>
+	</StaticMesh>
+	<Actor name="59c8074fe13102f8e193186f3532492a" label="LL_LightBall_01" layer="LL_LightBall_01" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Rhino.ID: 2a679083-7e8c-4058-bb1f-a3dbdd048aec" />
+		<tag value="Rhino.Entity.Type: layer" />
+		<children visible="true">
+			<ActorMesh name="a5dedee8aa9308c34142f1d5aaf2025e" label="extrusion" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="8751c61fc15d32d5738f2ff9f9494288"/>
+				<Transform tx="-538.815063" ty="446.388245" tz="549.549683" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 79a76546-1077-46c2-829c-fb9ac75294dd" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="856828ff6d4f88b78563960239a74170" label="extrusion_2" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="f603b581d9d7e6773e2e183de1e83674"/>
+				<Transform tx="538.815063" ty="75.388252" tz="-0.450307" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: c87fabf0-51ca-4808-9ca9-380c022842d3" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="776b457e0f6deb1afa0ca9eaaf4ab48a" label="extrusion_3" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="5b6c9d8d347f12bc9cd6d0ebe64b73e0"/>
+				<Transform tx="-538.815063" ty="446.388245" tz="-0.450307" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 3314e264-365c-4065-94cc-543e67fc8e06" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="a511ec39c3bd5542b82c984ce22c7688" label="extrusion_4" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="9b7b3da1b02856f53a6f33173b595320"/>
+				<Transform tx="538.815063" ty="75.388252" tz="549.549683" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 0ee1edc3-2857-4b17-b56b-7a3a61806b42" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="982c4b2cf475a247c18ea636fe20fc35" label="extrusion_5" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="019ce7e2894fb5614adf39ca32ce1628"/>
+				<Transform tx="538.815063" ty="446.388245" tz="-0.450307" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 5fb96ebd-7129-4af4-adc5-8fd675e776b5" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="4a64cb5df328f2133d400714fa44bf92" label="extrusion_6" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="99a4353b56a44a4718a533dff854d13d"/>
+				<Transform tx="-538.815063" ty="75.388252" tz="549.549683" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 3b98d6df-775c-431c-b36f-d7739a6e6ab9" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="eb91f21a6e6a1b1729f75b64688ce09f" label="extrusion_7" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="c1fe9231b7e745eda401b83bdd93642c"/>
+				<Transform tx="538.815063" ty="446.388245" tz="549.549683" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: b1c6321d-6d7f-4f62-aacf-2849e35d8565" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="0040864db077acac2afd75e685396e7e" label="extrusion_8" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="aaca74a302cf540b18f387c0575b74b9"/>
+				<Transform tx="-538.815063" ty="75.388252" tz="-0.450307" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 9f02108c-f869-4f59-8b6a-c48e7c08d43a" />
+				<tag value="Rhino.Entity.Type: extrusion" />
+			</ActorMesh>
+			<ActorMesh name="602fa7c6686c345d8856ee5c4e90df3c" label="brep" layer="LL_LightBall_01" mobility="Static">
+				<mesh name="2ac1408c750abe2dfc2fc8ae4d14baa5"/>
+				<Transform tx="0.000002" ty="260.888245" tz="540.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: fec08b3c-6cc0-4ab3-8d37-4b879c2d0296" />
+				<tag value="Rhino.Entity.Type: brep" />
+			</ActorMesh>
+			<Actor name="f5815a2744cf13d9f38be18f63f8972c" label="point" layer="LL_LightBall_01" mobility="Static">
+				<Transform tx="0.000002" ty="260.888245" tz="550.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Rhino.ID: 36467f39-8459-47c4-811f-1462f078d987" />
+				<tag value="Rhino.Entity.Type: point" />
+				<tag value="Rhino.GroupName: Group175" />
+			</Actor>
+		</children>
+	</Actor>
+	<Camera name="9276418581ee840cdbe88eb25ad7b755" label="Current_20260205_center" mobility="Movable">
+		<Transform tx="-345.655273" ty="248.870758" tz="1011.770264" sx="1.0" sy="1.0" sz="1.0" qx="-0.043906" qy="0.451852" qz="0.086174" qw="0.886835" qhex64="9092F722E97AA6BF070F84AD26EBDC3FA8E772DB7A0FB63F5E4D4600F360EC3F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.762794"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="29.531252"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 6e93e564-7d85-4883-bafa-a97c34ef84c8" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="ca9fe609a7242c1b3c567f8d93267a82" label="Current_Top" mobility="Movable">
+		<Transform tx="45.286682" ty="3654.449951" tz="34433.070312" sx="1.0" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="0.5" qhex64="000000000000E03F000000000000E03F000000000000E0BF000000000000E03F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.767273"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="689.387085"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 916d55e3-3bda-4bc9-8b08-11d6706d220c" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="4848354a3314897ce4920c87276a392a" label="Current_Front" mobility="Movable">
+		<Transform tx="2935.855957" ty="21605.101562" tz="142.986191" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000000000000000000080CC3B7F669EA0E6BFCD3B7F669EA0E63F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.769418"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="27.160519"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: b5d4d7d5-0a80-4054-a7d2-279bad140cec" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="3d1c26e0959dd205a3f2c601ed3810c0" label="Current_Left" mobility="Movable">
+		<Transform tx="-42803.019531" ty="3697.541748" tz="287.739899" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.769418"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="2381.956787"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 970e45d9-296c-4ea6-aa05-97ccaaac7bcd" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="d1ba510939b6b5518774c944b62c92c6" label="20251215_Isometric" mobility="Movable">
+		<Transform tx="-6485.492676" ty="-7408.817871" tz="15263.182617" sx="1.0" sy="1.0" sz="1.0" qx="-0.199219" qy="0.409366" qz="0.389607" qw="0.800585" qhex64="991360AF0480C9BF456AA41C0F33DA3F3BFF4ED552EFD83FFA735B69659EE93F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.762794"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="3.505512"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 00000000-0000-0000-0000-000000000000" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="63271f6f4a012a50d2f0c15cf9ca56b4" label="20260119_Last_row" mobility="Movable">
+		<Transform tx="0.0" ty="-1142.044312" tz="444.471069" sx="1.0" sy="1.0" sz="1.0" qx="-0.041081" qy="0.041081" qz="0.705913" qw="0.705912" qhex64="8C98008A8C08A5BFE2FBBA7E8D08A53F237C2AD0D596E63FA0D2F586D596E63F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.767273"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="29.531252"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 00000000-0000-0000-0000-000000000000" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="c09fd712e930f88751b3cbf4c80e76ae" label="20260119_First_row" mobility="Movable">
+		<Transform tx="0.0" ty="-425.567841" tz="125.597282" sx="1.0" sy="1.0" sz="1.0" qx="0.022219" qy="-0.022219" qz="0.706758" qw="0.706758" qhex64="75B8435277C0963F75A9483C76C096BF7AF8DB4DC29DE63F24359403C29DE63F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.767273"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="29.531252"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 00000000-0000-0000-0000-000000000000" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<Camera name="96fba793c83bc01f8c4ca24c164cbd40" label="20260205_center" mobility="Movable">
+		<Transform tx="0.0" ty="-743.374939" tz="274.488556" sx="1.0" sy="1.0" sz="1.0" qx="0.022219" qy="-0.022219" qz="0.706758" qw="0.706758" qhex64="75B8435277C0963F75A9483C76C096BF7AF8DB4DC29DE63F24359403C29DE63F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.767273"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="1000.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="29.531252"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+		<tag value="Rhino.ID: 00000000-0000-0000-0000-000000000000" />
+		<tag value="Rhino.Entity.Type: camera" />
+	</Camera>
+	<UEPbrMaterial name="8cca0507fc5e14c2d724ed5f1923d822" label="石膏__1_">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
